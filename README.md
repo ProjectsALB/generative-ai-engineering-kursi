@@ -42,8 +42,8 @@ Lidhe repository-n me Netlify dhe vendos:
 
 | Cilësimi | Vlera |
 |---|---|
-| **Build command** | Lëre bosh |
-| **Publish directory** | `platform` |
+| **Aksesko** | https://generative-ai.netlify.app/ |
+
 
 ## 📁 Struktura e projektit
 
