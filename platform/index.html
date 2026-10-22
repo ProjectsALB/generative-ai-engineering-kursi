@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="sq">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8f5">
+  <meta name="description" content="Platformë dygjuhëshe për Generative AI Engineering, me teori, laboratorë dhe projekte.">
+  <title>AI Engineering — Mëso GenAI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="practice.css">
+</head>
+<body>
+  <div id="gate" class="gate">
+    <div class="gate-card">
+      <div class="brand-mark">✳</div>
+      <p class="eyebrow">STUDY STUDIO <span>·</span> IBM AI ENGINEERING</p>
+      <h1 data-i18n="gateTitle">Generative AI Engineering</h1>
+      <p class="gate-copy" data-i18n="gatePrompt">Shkruaj fjalëkalimin për të hyrë në platformë.</p>
+      <form id="gate-form">
+        <label class="sr-only" for="password" data-i18n="password">Fjalëkalimi</label>
+        <input id="password" type="password" autocomplete="current-password" placeholder="•••••" required>
+        <button class="button button-dark gate-submit" type="submit" data-i18n="enter">Hyr <span>↗</span></button>
+      </form>
+      <p class="gate-error" id="gate-error" aria-live="polite"></p>
+      <div class="gate-foot"><span>16 KURSE</span><span>·</span><span>SQ / EN</span><span>·</span><span>LEARN AT YOUR PACE</span></div>
+    </div>
+    <div class="gate-orbit orbit-one"></div><div class="gate-orbit orbit-two"></div>
+  </div>
+
+  <div id="app" class="app-shell hidden">
+    <aside class="sidebar" id="sidebar">
+      <a href="#home" class="wordmark"><span class="brand-mark small">✳</span><span>learn<span class="wordmark-dot">.</span>ai</span></a>
+      <div class="side-label" data-i18n="workspace">HAPËSIRA IME</div>
+      <nav class="primary-nav">
+        <button class="nav-link active" data-view="home"><span class="nav-icon">⌂</span><span data-i18n="overview">Përmbledhje</span></button>
+        <button class="nav-link" data-view="courses"><span class="nav-icon">▤</span><span data-i18n="allCourses">Të gjitha kurset</span><span class="nav-count">16</span></button>
+        <button class="nav-link" data-view="practice"><span class="nav-icon">⌘</span><span data-i18n="practice">Praktika</span></button>
+        <button class="nav-link" data-view="cards"><span class="nav-icon">▧</span><span data-i18n="flashcards">Flashcards</span></button>
+        <button class="nav-link" data-view="glossary"><span class="nav-icon">Aa</span><span data-i18n="glossary">Fjalor</span></button>
+      </nav>
+      <div class="side-divider"></div>
+      <div class="side-label" data-i18n="curriculum">KURRIKULA</div>
+      <nav id="course-nav" class="course-nav"></nav>
+      <div class="sidebar-bottom">
+        <div class="streak-card"><div class="streak-top"><span class="streak-icon">✦</span><span data-i18n="yourProgress">PROGRESI YT</span><span class="streak-percent" id="side-percent">0%</span></div><div class="progress-track"><span id="side-progress"></span></div><p id="side-progress-copy">0 / 64 <span data-i18n="lessonsDone">mësime të përfunduara</span></p></div>
+        <button id="reset-progress" class="text-button" data-i18n="resetProgress">Rivendos progresin</button>
+      </div>
+    </aside>
+
+    <main class="main-panel">
+      <header class="topbar">
+        <button id="menu-toggle" class="icon-button mobile-menu" aria-label="Open menu">☰</button>
+        <div class="breadcrumbs"><span data-i18n="workspace">HAPËSIRA IME</span><span class="crumb-slash">/</span><strong id="breadcrumb-current">Përmbledhje</strong></div>
+        <div class="top-actions"><div class="language-switch" role="group" aria-label="Language"><button data-lang="sq" class="selected">SQ</button><span></span><button data-lang="en">EN</button></div><div class="avatar">AI</div></div>
+      </header>
+      <div id="view-root" class="view-root"></div>
+      <footer class="site-footer"><span>LEARN WITH CURIOSITY <span class="footer-star">✳</span></span><span>IBM GENERATIVE AI ENGINEERING · PERSONAL STUDY SPACE</span></footer>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="coding-practice.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

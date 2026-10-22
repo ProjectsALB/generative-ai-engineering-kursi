@@ -1,0 +1,950 @@
+[
+  {
+    "course": "1. Introduction to Artificial Intelligence (AI)",
+    "path": "1. Introduction to Artificial Intelligence (AI)/Moduel 1, Introduction and Applications of Al/Module Summary.pdf",
+    "name": "Module Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "1. Introduction to Artificial Intelligence (AI)",
+    "path": "1. Introduction to Artificial Intelligence (AI)/Moduel 2, Al Concepts, Terminology, and Application Domains/Module Summary.pdf",
+    "name": "Module Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "1. Introduction to Artificial Intelligence (AI)",
+    "path": "1. Introduction to Artificial Intelligence (AI)/Moduel 3, Business and Career Transformation Through Al/Module Summary.pdf",
+    "name": "Module Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "1. Introduction to Artificial Intelligence (AI)",
+    "path": "1. Introduction to Artificial Intelligence (AI)/Moduel 4, Issues, Concerns, and Ethical Considerations/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 1, Generative Al Architecture/Exploring_Generative_AI_Libraries.ipynb",
+    "name": "Exploring_Generative_AI_Libraries",
+    "type": "ipynb"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 1, Generative Al Architecture/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 2, Data Preparation for LLMs/Course Conclusion.pdf",
+    "name": "Course Conclusion",
+    "type": "pdf"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 2, Data Preparation for LLMs/Creating an NLP Data Loader.ipynb",
+    "name": "Creating an NLP Data Loader",
+    "type": "ipynb"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 2, Data Preparation for LLMs/Data Quality and Diversity for Effective LLM Training.pdf",
+    "name": "Data Quality and Diversity for Effective LLM Training",
+    "type": "pdf"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 2, Data Preparation for LLMs/Implementing Tokenization.ipynb",
+    "name": "Implementing Tokenization",
+    "type": "ipynb"
+  },
+  {
+    "course": "10._Generative AI and LLMs Architecture and Data Preparation",
+    "path": "10._Generative AI and LLMs Architecture and Data Preparation/Module 2, Data Preparation for LLMs/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 1, Fundamentals of Language Understanding/Building and Training Language Model with NN.ipynb",
+    "name": "Building and Training Language Model with NN",
+    "type": "ipynb"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 1, Fundamentals of Language Understanding/Classifying Document.ipynb",
+    "name": "Classifying Document",
+    "type": "ipynb"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 1, Fundamentals of Language Understanding/Summary and Highlights (N-Gram).pdf",
+    "name": "Summary and Highlights (N-Gram)",
+    "type": "pdf"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 1, Fundamentals of Language Understanding/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 2, Word2Vec and Sequence-to-Sequence Models/Course Conclusion.pdf",
+    "name": "Course Conclusion",
+    "type": "pdf"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 2, Word2Vec and Sequence-to-Sequence Models/Developing a Sequence-to-Sequence Model.ipynb",
+    "name": "Developing a Sequence-to-Sequence Model",
+    "type": "ipynb"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 2, Word2Vec and Sequence-to-Sequence Models/Integrating Word2Vec.ipynb",
+    "name": "Integrating Word2Vec",
+    "type": "ipynb"
+  },
+  {
+    "course": "11._Gen AI Foundational Models for NLP & Language Understanding",
+    "path": "11._Gen AI Foundational Models for NLP & Language Understanding/Module 2, Word2Vec and Sequence-to-Sequence Models/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 1, Fundamental Concepts of Transformer Architecture/Attention Mechanism and Positional Encoding.ipynb",
+    "name": "Attention Mechanism and Positional Encoding",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 1, Fundamental Concepts of Transformer Architecture/M3-L2-Applying Transformers for Classification.ipynb",
+    "name": "M3-L2-Applying Transformers for Classification",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 1, Fundamental Concepts of Transformer Architecture/Optimization Techniques for Efficient Transformer Training.pdf",
+    "name": "Optimization Techniques for Efficient Transformer Training",
+    "type": "pdf"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 1, Fundamental Concepts of Transformer Architecture/Summary and Highlights 1.pdf",
+    "name": "Summary and Highlights 1",
+    "type": "pdf"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/Data Preparations for BERT.ipynb",
+    "name": "Data Preparations for BERT",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/Decoder Causal LM GPT-like Models.ipynb",
+    "name": "Decoder Causal LM GPT-like Models",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/Encoder Models with Baby BERT.ipynb",
+    "name": "Encoder Models with Baby BERT",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/M3-L3-Transformers for Translation.ipynb",
+    "name": "M3-L3-Transformers for Translation",
+    "type": "ipynb"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/Summary and Highlights 1.pdf",
+    "name": "Summary and Highlights 1",
+    "type": "pdf"
+  },
+  {
+    "course": "12._Generative AI Language Modeling with Transformers",
+    "path": "12._Generative AI Language Modeling with Transformers/Module 2, Advanced Concepts of Transformer Architecture/Summary and Highlights 2.pdf",
+    "name": "Summary and Highlights 2",
+    "type": "pdf"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 1, Transformers and Fine-Tuning/Fine-Tuning Transformers with PyTorch and Hugging Face.ipynb",
+    "name": "Fine-Tuning Transformers with PyTorch and Hugging Face",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 1, Transformers and Fine-Tuning/Loading Models and Inference with Hugging Face.ipynb",
+    "name": "Loading Models and Inference with Hugging Face",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 1, Transformers and Fine-Tuning/Optional Pre training LLMs with Hugging Face.ipynb",
+    "name": "Optional Pre training LLMs with Hugging Face",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 1, Transformers and Fine-Tuning/Pre-Training and Fine-Tuning with PyTorch.ipynb",
+    "name": "Pre-Training and Fine-Tuning with PyTorch",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 1, Transformers and Fine-Tuning/Reading Summary and Highlights.pdf",
+    "name": "Reading Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 2, Parameter Efficient Fine-Tuning (PEFT)/Adapters in PyTorch.ipynb",
+    "name": "Adapters in PyTorch",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 2, Parameter Efficient Fine-Tuning (PEFT)/Course Conclusion.pdf",
+    "name": "Course Conclusion",
+    "type": "pdf"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 2, Parameter Efficient Fine-Tuning (PEFT)/LoRA with Pytorch.ipynb",
+    "name": "LoRA with Pytorch",
+    "type": "ipynb"
+  },
+  {
+    "course": "13._Generative AI Engineering and Fine-Tuning Transformers",
+    "path": "13._Generative AI Engineering and Fine-Tuning Transformers/Module 2, Parameter Efficient Fine-Tuning (PEFT)/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 1, Different Approaches to Fine-Tuning/Best Practices for Instruction-Tuning Large Language Models.pdf",
+    "name": "Best Practices for Instruction-Tuning Large Language Models",
+    "type": "pdf"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 1, Different Approaches to Fine-Tuning/Instruction fine-tuning.ipynb",
+    "name": "Instruction fine-tuning",
+    "type": "ipynb"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 1, Different Approaches to Fine-Tuning/Reward Modeling.ipynb",
+    "name": "Reward Modeling",
+    "type": "ipynb"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 1, Different Approaches to Fine-Tuning/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 2, Fine-Tuning Causal LLMs with Human Feedback and Direct Preference/Course Conclusion.pdf",
+    "name": "Course Conclusion",
+    "type": "pdf"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 2, Fine-Tuning Causal LLMs with Human Feedback and Direct Preference/DPO Fine-Tuning.ipynb",
+    "name": "DPO Fine-Tuning",
+    "type": "ipynb"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 2, Fine-Tuning Causal LLMs with Human Feedback and Direct Preference/PPOTrainer.ipynb",
+    "name": "PPOTrainer",
+    "type": "ipynb"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 2, Fine-Tuning Causal LLMs with Human Feedback and Direct Preference/Summary and Highlights (DPO).pdf",
+    "name": "Summary and Highlights (DPO)",
+    "type": "pdf"
+  },
+  {
+    "course": "14._Generative AI Advance Fine-Tuning for LLMs",
+    "path": "14._Generative AI Advance Fine-Tuning for LLMs/Module 2, Fine-Tuning Causal LLMs with Human Feedback and Direct Preference/Summary and Highlights (PPO) .pdf",
+    "name": "Summary and Highlights (PPO) ",
+    "type": "pdf"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 1, RAG Framework/RAG with Hugging Face.ipynb",
+    "name": "RAG with Hugging Face",
+    "type": "ipynb"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 1, RAG Framework/RAG with Pytorch.ipynb",
+    "name": "RAG with Pytorch",
+    "type": "ipynb"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 1, RAG Framework/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 2, Prompt Engineering and LangChain/Build Smarter AI Apps Empower LLMs with LangChain.ipynb",
+    "name": "Build Smarter AI Apps Empower LLMs with LangChain",
+    "type": "ipynb"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 2, Prompt Engineering and LangChain/In-Context Learning and Prompt Templates.ipynb",
+    "name": "In-Context Learning and Prompt Templates",
+    "type": "ipynb"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 2, Prompt Engineering and LangChain/Summarize private documents using RAG LangChain and LLMs.ipynb",
+    "name": "Summarize private documents using RAG LangChain and LLMs",
+    "type": "ipynb"
+  },
+  {
+    "course": "15._Fundamentals of AI Agents Using RAG and LangChain",
+    "path": "15._Fundamentals of AI Agents Using RAG and LangChain/Module 2, Prompt Engineering and LangChain/Summary and Highlights.pdf",
+    "name": "Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 1, Document Loader using LangChain/Best Practices for Loading Documents in LangChain Applications.pdf",
+    "name": "Best Practices for Loading Documents in LangChain Applications",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 1, Document Loader using LangChain/Full document retrieve limitation.ipynb",
+    "name": "Full document retrieve limitation",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 1, Document Loader using LangChain/LangChain document loader.ipynb",
+    "name": "LangChain document loader",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 1, Document Loader using LangChain/LangChain text-splitter.ipynb",
+    "name": "LangChain text-splitter",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 1, Document Loader using LangChain/Reading Summary and Highlights .pdf",
+    "name": "Reading Summary and Highlights ",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 2, RAG Using LangChain/Embed documents with watsonx s embedding.ipynb",
+    "name": "Embed documents with watsonx s embedding",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 2, RAG Using LangChain/LangChain retriever.ipynb",
+    "name": "LangChain retriever",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 2, RAG Using LangChain/LangChain vector store.ipynb",
+    "name": "LangChain vector store",
+    "type": "ipynb"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 2, RAG Using LangChain/Module Summary RAG Using LangChain.pdf",
+    "name": "Module Summary RAG Using LangChain",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 3, Create a QA Bot to Read Your Document/Course Conclusion.pdf",
+    "name": "Course Conclusion",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 3, Create a QA Bot to Read Your Document/Lab Construct a QA Bot that Leverages the LangChain and LLM to Answer Questions from Loaded Docume/A_Comprehensive_Review_of_Low_Rank_Adaptation_in_Large_Language_Models_for_Efficient_Parameter_Tuning-1.pdf",
+    "name": "A_Comprehensive_Review_of_Low_Rank_Adaptation_in_Large_Language_Models_for_Efficient_Parameter_Tuning-1",
+    "type": "pdf"
+  },
+  {
+    "course": "16._Project Generative AI Applications with RAG and LangChain",
+    "path": "16._Project Generative AI Applications with RAG and LangChain/Module 3, Create a QA Bot to Read Your Document/Module Summary Create a QA Bot to Read Your Document.pdf",
+    "name": "Module Summary Create a QA Bot to Read Your Document",
+    "type": "pdf"
+  },
+  {
+    "course": "2. Generative AI Introduction and Applications",
+    "path": "2. Generative AI Introduction and Applications/Module 1, Introduction and Capabilities of Generative Al/History and Evolution of Generative AI.pdf",
+    "name": "History and Evolution of Generative AI",
+    "type": "pdf"
+  },
+  {
+    "course": "2. Generative AI Introduction and Applications",
+    "path": "2. Generative AI Introduction and Applications/Module 1, Introduction and Capabilities of Generative Al/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "2. Generative AI Introduction and Applications",
+    "path": "2. Generative AI Introduction and Applications/Module 2, Applications and Tools of Generative Al/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "3. Generative AI Prompt Engineering Basics",
+    "path": "3. Generative AI Prompt Engineering Basics/Module 1, Prompt Engineering for Generative Al/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "3. Generative AI Prompt Engineering Basics",
+    "path": "3. Generative AI Prompt Engineering Basics/Module 2, Prompt Engineering Techniques and Approaches/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 1, Python Basics/Module 1 Summary Python Basics.pdf",
+    "name": "Module 1 Summary Python Basics",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 1, Python Basics/PY0101EN-1-1-Expressions_Variables.ipynb",
+    "name": "PY0101EN-1-1-Expressions_Variables",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 1, Python Basics/PY0101EN-1-1-Getting_Started_With_Python.ipynb",
+    "name": "PY0101EN-1-1-Getting_Started_With_Python",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 1, Python Basics/PY0101EN-1-1-Types.ipynb",
+    "name": "PY0101EN-1-1-Types",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 1, Python Basics/PY0101EN-1-2-Strings.ipynb",
+    "name": "PY0101EN-1-2-Strings",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 2, Python Data Structures/Module 2 Summary Python Data Structures.pdf",
+    "name": "Module 2 Summary Python Data Structures",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 2, Python Data Structures/PY0101EN-2-1-Tuples.ipynb",
+    "name": "PY0101EN-2-1-Tuples",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 2, Python Data Structures/PY0101EN-2-2-Lists.ipynb",
+    "name": "PY0101EN-2-2-Lists",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 2, Python Data Structures/PY0101EN-2-3-Sets.ipynb",
+    "name": "PY0101EN-2-3-Sets",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 2, Python Data Structures/PY0101EN-2-4-Dictionaries.ipynb",
+    "name": "PY0101EN-2-4-Dictionaries",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/3-1 2ExcecptionHandling.ipynb",
+    "name": "3-1 2ExcecptionHandling",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/Module 3 Summary Python Programming Fundamentals.pdf",
+    "name": "Module 3 Summary Python Programming Fundamentals",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/PY0101EN-3-1-Conditions.ipynb",
+    "name": "PY0101EN-3-1-Conditions",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/PY0101EN-3-2-Loops.ipynb",
+    "name": "PY0101EN-3-2-Loops",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/PY0101EN-3-3-Functions-jupyterlite.ipynb",
+    "name": "PY0101EN-3-3-Functions-jupyterlite",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/PY0101EN-3-4-Classes.ipynb",
+    "name": "PY0101EN-3-4-Classes",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 3, Python Programming Fundamentals/PY0101EN-3-5-Practice lab.ipynb",
+    "name": "PY0101EN-3-5-Practice lab",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/Module 4 Summary Working with Data in Python.pdf",
+    "name": "Module 4 Summary Working with Data in Python",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/PY0101EN-4-1-ReadFile.ipynb",
+    "name": "PY0101EN-4-1-ReadFile",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/PY0101EN-4-2-WriteFile.ipynb",
+    "name": "PY0101EN-4-2-WriteFile",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/PY0101EN-4-3-LoadData.ipynb",
+    "name": "PY0101EN-4-3-LoadData",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/PY0101EN-5-1-Numpy1D.ipynb",
+    "name": "PY0101EN-5-1-Numpy1D",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/PY0101EN-5-2-Numpy2D.ipynb",
+    "name": "PY0101EN-5-2-Numpy2D",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 4, Working with Data in Python/Pandas_Practice.ipynb",
+    "name": "Pandas_Practice",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/Module 5 Summary APIs and Data Collection.pdf",
+    "name": "Module 5 Summary APIs and Data Collection",
+    "type": "pdf"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/PY0101EN-5 2_API_2 v2.ipynb",
+    "name": "PY0101EN-5 2_API_2 v2",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/PY0101EN-5 4_WorkingWithDifferent.ipynb",
+    "name": "PY0101EN-5 4_WorkingWithDifferent",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/PY0101EN-5.1_Intro_API.ipynb",
+    "name": "PY0101EN-5.1_Intro_API",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/PY0101EN-5.3_Requests_HTTP.ipynb",
+    "name": "PY0101EN-5.3_Requests_HTTP",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/labs_module 1_Web Scraping_Web-Scraping-Review.ipynb",
+    "name": "labs_module 1_Web Scraping_Web-Scraping-Review",
+    "type": "ipynb"
+  },
+  {
+    "course": "4._Python for Data Science, AI & Development",
+    "path": "4._Python for Data Science, AI & Development/Module 5, APIs and Data Collection/practice_project.ipynb",
+    "name": "practice_project",
+    "type": "ipynb"
+  },
+  {
+    "course": "5. Developing AI Applications with Python and Flask",
+    "path": "5. Developing AI Applications with Python and Flask/Module 1, Python Coding Practices and Packaging Concepts/Module 1 Summary Python Coding Practices and Packaging Concepts.pdf",
+    "name": "Module 1 Summary Python Coding Practices and Packaging Concepts",
+    "type": "pdf"
+  },
+  {
+    "course": "5. Developing AI Applications with Python and Flask",
+    "path": "5. Developing AI Applications with Python and Flask/Module 2, Web App Deployment using Flask/Module 2 Lesson Summary Web App Deployment using Flask.pdf",
+    "name": "Module 2 Lesson Summary Web App Deployment using Flask",
+    "type": "pdf"
+  },
+  {
+    "course": "5. Developing AI Applications with Python and Flask",
+    "path": "5. Developing AI Applications with Python and Flask/Module 3, Creating Al Application and Deploy using Flask/Module 3 Summary Creating AI Application and Deploy using Flask.pdf",
+    "name": "Module 3 Summary Creating AI Application and Deploy using Flask",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 1, Image Captioning with Generative Al/Module Summary Image Captioning with Generative AI.pdf",
+    "name": "Module Summary Image Captioning with Generative AI",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 2, Create Your Own ChatGPT-Like Website/Module Summary Create Your Own ChatGPT-Like Website.pdf",
+    "name": "Module Summary Create Your Own ChatGPT-Like Website",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 3, Create a Voice Assistant/Module Summary Create a Voice Assistant.pdf",
+    "name": "Module Summary Create a Voice Assistant",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 4, Generative Al-Powered Meeting Assistant/Module Summary Generative AI-Powered Meeting Assistant.pdf",
+    "name": "Module Summary Generative AI-Powered Meeting Assistant",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 5, Summarize Your Private Data with Generative Al and RAG/Module Summary Summarize Your Private Data with Generative AI.pdf",
+    "name": "Module Summary Summarize Your Private Data with Generative AI",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 6, Babel Fish (Universal Language Translator) with LLM and STT TTS/Module Summary Babel Fish with LLM and STT TTS.pdf",
+    "name": "Module Summary Babel Fish with LLM and STT TTS",
+    "type": "pdf"
+  },
+  {
+    "course": "6. Building Generative AI-Powered Applications with Python",
+    "path": "6. Building Generative AI-Powered Applications with Python/Module 7, [Bonus] Module 7 Build an Al Career Coach/Module Summary Build an AI Career Coach.pdf",
+    "name": "Module Summary Build an AI Career Coach",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 1, Importing Data Sets/DA0101EN-Review-Introduction.ipynb",
+    "name": "DA0101EN-Review-Introduction",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 1, Importing Data Sets/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 1, Importing Data Sets/Practice_data_loading.ipynb",
+    "name": "Practice_data_loading",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 2, Data Wrangling/DA0101EN-2-Review-Data-Wrangling.ipynb",
+    "name": "DA0101EN-2-Review-Data-Wrangling",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 2, Data Wrangling/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 2, Data Wrangling/practice_data_wrangling.ipynb",
+    "name": "practice_data_wrangling",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 3, Exploratory Data Analysis/Exploratory_data_analysis_cars.ipynb",
+    "name": "Exploratory_data_analysis_cars",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 3, Exploratory Data Analysis/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 3, Exploratory Data Analysis/parctice_Exploratory_data_analysis.ipynb",
+    "name": "parctice_Exploratory_data_analysis",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 4, Model Development/DA0101EN-4-Review-Model-Development.ipynb",
+    "name": "DA0101EN-4-Review-Model-Development",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 4, Model Development/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 4, Model Development/practice_model_development_laptops.ipynb",
+    "name": "practice_model_development_laptops",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 5, Model Evaluation and Refinement/Lesson Summary.pdf",
+    "name": "Lesson Summary",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 5, Model Evaluation and Refinement/Model_Evaluation_and_Refinement_cars.ipynb",
+    "name": "Model_Evaluation_and_Refinement_cars",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 5, Model Evaluation and Refinement/practice_model_development_laptops.ipynb",
+    "name": "practice_model_development_laptops",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 5, Model Evaluation and Refinement/practice_model_evaluation.ipynb",
+    "name": "practice_model_evaluation",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 6, Final Assignment/House_Sales_in_King_Count_USA.ipynb",
+    "name": "House_Sales_in_King_Count_USA",
+    "type": "ipynb"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 6, Final Assignment/Python Cheat Sheet for Data Analysis.pdf",
+    "name": "Python Cheat Sheet for Data Analysis",
+    "type": "pdf"
+  },
+  {
+    "course": "7._Data Analysis with Python",
+    "path": "7._Data Analysis with Python/Module 6, Final Assignment/practice_project.ipynb",
+    "name": "practice_project",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 1, Introduction to Machine Learning/Module 1 Summary and Highlights.pdf",
+    "name": "Module 1 Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 2, Linear and Logistic Regression/Logistic_Regression.ipynb",
+    "name": "Logistic_Regression",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 2, Linear and Logistic Regression/Module 2 Summary and Highlights.pdf",
+    "name": "Module 2 Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 2, Linear and Logistic Regression/Mulitple-Linear-Regression.ipynb",
+    "name": "Mulitple-Linear-Regression",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/Decision_trees.ipynb",
+    "name": "Decision_trees",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/KNN_Classification.ipynb",
+    "name": "KNN_Classification",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/Module 3 Summary and Highlights.pdf",
+    "name": "Module 3 Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/Multi-class_Classification.ipynb",
+    "name": "Multi-class_Classification",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/Random_ Forests _XGBoost.ipynb",
+    "name": "Random_ Forests _XGBoost",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/Regression_Trees_Taxi_Tip.ipynb",
+    "name": "Regression_Trees_Taxi_Tip",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 3, Building Supervised Leaming Models/decision_tree_svm_ccFraud.ipynb",
+    "name": "decision_tree_svm_ccFraud",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 4, Building Unsupervised Learning Models/Comparing_DBScan_HDBScan.ipynb",
+    "name": "Comparing_DBScan_HDBScan",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 4, Building Unsupervised Learning Models/K-Means-Customer-Seg.ipynb",
+    "name": "K-Means-Customer-Seg",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 4, Building Unsupervised Learning Models/Module 4 Summary and Highlights.pdf",
+    "name": "Module 4 Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 4, Building Unsupervised Learning Models/PCA.ipynb",
+    "name": "PCA",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 4, Building Unsupervised Learning Models/tSNE_UMAP.ipynb",
+    "name": "tSNE_UMAP",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 5, Evaluating and Validating Machine Learning Models/Evaluating Classification Models.ipynb",
+    "name": "Evaluating Classification Models",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 5, Evaluating and Validating Machine Learning Models/Evaluating_k-means_clustering.ipynb",
+    "name": "Evaluating_k-means_clustering",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 5, Evaluating and Validating Machine Learning Models/ML_Pipelines_and_GridSearchCV.ipynb",
+    "name": "ML_Pipelines_and_GridSearchCV",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 5, Evaluating and Validating Machine Learning Models/Module 5 Summary and Highlights.pdf",
+    "name": "Module 5 Summary and Highlights",
+    "type": "pdf"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 5, Evaluating and Validating Machine Learning Models/Regularization_in_LinearRegression.ipynb",
+    "name": "Regularization_in_LinearRegression",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 6, Final Project and Exam/FinalProject_AUSWeather.ipynb",
+    "name": "FinalProject_AUSWeather",
+    "type": "ipynb"
+  },
+  {
+    "course": "8._Machine Learning with Python",
+    "path": "8._Machine Learning with Python/Module 6, Final Project and Exam/Practice Project.ipynb",
+    "name": "Practice Project",
+    "type": "ipynb"
+  },
+  {
+    "course": "9._Introduction to Deep Learning & Neural Networks with Keras",
+    "path": "9._Introduction to Deep Learning & Neural Networks with Keras/Module 1, Introduction to Neural Networks and Deep Learning/Artificial Neural Networks.ipynb",
+    "name": "Artificial Neural Networks",
+    "type": "ipynb"
+  },
+  {
+    "course": "9._Introduction to Deep Learning & Neural Networks with Keras",
+    "path": "9._Introduction to Deep Learning & Neural Networks with Keras/Module 3, Keras and Deep Learning Libraries/DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.ipynb",
+    "name": "DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_",
+    "type": "ipynb"
+  },
+  {
+    "course": "9._Introduction to Deep Learning & Neural Networks with Keras",
+    "path": "9._Introduction to Deep Learning & Neural Networks with Keras/Module 3, Keras and Deep Learning Libraries/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1.ipynb",
+    "name": "DL0101EN-3-2-Classification-with-Keras-py-v1 0__1",
+    "type": "ipynb"
+  },
+  {
+    "course": "9._Introduction to Deep Learning & Neural Networks with Keras",
+    "path": "9._Introduction to Deep Learning & Neural Networks with Keras/Module 4, Deep Learning Models/DL0101EN-4-1-Convolutional-Neural-Networks-with-K.ipynb",
+    "name": "DL0101EN-4-1-Convolutional-Neural-Networks-with-K",
+    "type": "ipynb"
+  }
+]
